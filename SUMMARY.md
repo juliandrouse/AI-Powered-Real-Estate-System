@@ -22,3 +22,6 @@ This file outlines the key sections of the documentation:
 
 7. **[Contributing](docs/07-Contributing.md)**  
    Guidelines for contributing to the documentation.
+
+8. **[Project Breakdown](docs/08-Project-Breakdown)**
+   Summary of Trello board, cards and lists used to manage the project.
